@@ -1,0 +1,18 @@
+/* style.css */
+
+/* Style for the .styledFont class */
+.styledFont {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+   color: green;
+   margin-bottom: auto; /* Adjust the spacing between paragraphs */
+}
+
+/* Style for the #styledImage id */
+#styledImage {
+    border: 2px solid #007bff; /* Border width, style, and color */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio when resizing */
+    margin-bottom: 20px; /* Adjust the spacing between the image and the next element */
+}
